@@ -1,0 +1,2 @@
+# MTASERVER
+Blue Race Server MTA. IP: 154.12.248.164:22208
