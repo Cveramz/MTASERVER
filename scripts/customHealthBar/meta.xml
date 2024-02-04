@@ -1,0 +1,4 @@
+<meta>
+  <info author="Shdow" version="1.0" name="Custom HealthBar" type="script" />
+  <script src="client.lua" type="client" />
+</meta>
